@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/docker-hacknowledge%2Felastalert-blue.svg) ![](https://images.microbadger.com/badges/image/hacknowledge/elastalert.svg)
+
 # Elastalert Docker image
 
 Docker image for [Elastalert](https://github.com/Yelp/elastalert).
